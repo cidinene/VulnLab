@@ -43,7 +43,7 @@
 
 1. If you want to install on DockerHub, just type this command.
    ```sh
-    docker run --name vulnlab -d -p 1337:80 yavuzlar/vulnlab:latest
+    docker run --name vulnlab -d -p 1337:80 cidinene/vulnlab:latest
    ```
 2. Go to http://localhost:1337
 
@@ -51,15 +51,15 @@
 
 1. Clone the repo
    ```sh
-    git clone https://github.com/Yavuzlar/VulnLab
+    git clone https://github.com/cidinene/VulnLab
    ```
 2. Build docker image
    ```sh
-    docker build -t yavuzlar/vulnlab .
+    docker build -t cidinene/vulnlab .
    ```
 3. Run container
    ```sh
-    docker run -d -p 1337:80 yavuzlar/vulnlab
+    docker run -d -p 1337:80 cidinene/vulnlab
    ```
 4. Go to http://localhost:1337
 
@@ -69,13 +69,5 @@
 
 <!-- SPONSOR -->
 
-## Supporters
-<a href="https://www.bakka.gov.tr/" style="margin-right:50px;">
-    <img src="https://i.ibb.co/YXYdfQx/bakkalogo.png" alt="Logo" width="200" >
-</a>
-<a href="https://cyrops.com/">
-    <img src="https://i.ibb.co/MV9HbNZ/Ba-l-ks-z-2.png" alt="Logo" width="200" >
-</a>
 
-<!-- CONTACT -->
 
