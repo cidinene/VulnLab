@@ -60,3 +60,4 @@ if [ $LOG_LEVEL == 'debug' ]; then
 else
     &>/dev/null /usr/sbin/apachectl -DFOREGROUND -k start
 fi
+tail -f  /var/log/apache2/access.log
