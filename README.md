@@ -1,14 +1,16 @@
-<!-- PROJECT LOGO -->
-<p align="center">
-  <a href="https://yavuzlar.org">
-    <img src="https://i.ibb.co/nDLHW7m/logomodern.png" alt="Logo" width="180" height="180">
-  </a>
 
   <h3 align="center">VulnLab</h3> 
 
   <p align="center">
     A web vulnerability lab project developed by Yavuzlar.
+    ## Contact
+
+    [Website](https://siberyavuzlar.com/) </br>  
+    [Linkedln](https://www.linkedin.com/company/siberyavuzlar) <br>
+    [Twitter](https://twitter.com/siberyavuzlar) </br>
+    [Instagram](https://www.instagram.com/siberyavuzlar/)
   </p>
+   
 </p>
 
 <a href="https://s10.gifyu.com/images/Animation387bbf064343cb3fe.gif">
@@ -63,7 +65,7 @@
 
 ### Google Cloud
 
-[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run/?git_repo=https://github.com/Yavuzlar/VulnLab)
+[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run/?git_repo=https://github.com/cidinene/VulnLab)
 
 <!-- SPONSOR -->
 
@@ -76,9 +78,4 @@
 </a>
 
 <!-- CONTACT -->
-## Contact
 
-[Website](https://siberyavuzlar.com/) </br>
-[Linkedln](https://www.linkedin.com/company/siberyavuzlar) <br>
-[Twitter](https://twitter.com/siberyavuzlar) </br>
-[Instagram](https://www.instagram.com/siberyavuzlar/)
