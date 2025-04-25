@@ -43,7 +43,7 @@
 
 1. If you want to install on DockerHub, just type this command.
    ```sh
-    docker run --name vulnlab -d -p 1337:80 cidinene/vulnlab:latest
+    docker run --name vulnlab -d -p 1337:80  docker run --name vulnlab -d -p 1337:80 ghcr.io/cidinene/vulnlab/webapp:latest
    ```
 2. Go to http://localhost:1337
 
